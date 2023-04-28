@@ -1,0 +1,3 @@
+/home/xihzou/Multigrid/CMakeFiles/test.dir
+/home/xihzou/Multigrid/CMakeFiles/edit_cache.dir
+/home/xihzou/Multigrid/CMakeFiles/rebuild_cache.dir
